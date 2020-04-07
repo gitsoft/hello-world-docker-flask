@@ -1,6 +1,6 @@
 [
   {
-    "name": "hello-world-service",
+    "name": "hello-world",
     "imageUri": "685097284491.dkr.ecr.eu-central-1.amazonaws.com/quickbit-se:latest"
   }
 ]
